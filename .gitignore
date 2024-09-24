@@ -1,0 +1,16 @@
+# Node modules
+frontend/node_modules/
+
+# Build output
+frontend/build/
+
+# Python virtual environment
+backend/venv/
+
+# Secret files
+backend/secrets.toml
+frontend/.env
+
+# Other
+.DS_Store
+Thumbs.db
